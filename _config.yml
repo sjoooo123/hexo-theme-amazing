@@ -13,7 +13,7 @@ head:
     open_graph:
         # Page title (og:title) (optional)
         # You should leave this blank for most of the time
-        title: 辣椒の酱
+        title: sjoooo123
         # Page type (og:type) (optional)
         # You should leave this blank for most of the time
         type: blog
@@ -25,7 +25,7 @@ head:
         image: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png
         # Site name (og:site_name) (optional)
         # You should leave this blank for most of the time
-        site_name: 辣椒の酱
+        site_name: sjoooo123
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
         author: removeif
@@ -73,17 +73,17 @@ head:
 navbar:
     # Naviagtion menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
-        Album: /album
-        Friend: /friend
-        Message: /message
-        Self-talking: /self-talking
-        Music: /music
-        Media: /media
+        首页: /
+        归档: /archives
+        分类: /categories
+        标签: /tags
+        律法: /tags/法律/
+        影音: /media
+        相册: /album
+        友链: /friend
+        碎碎念: /self-talking
+        留言: /message
+        关于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Join Gitter:
@@ -144,11 +144,11 @@ search:
 comment:
     type: gitalk
     language: zh-CN #zh-CN #Localization language key, en, zh-CN and zh-TW are currently available.
-    owner: removeif         # (required) GitHub user name
-    repo: blog_comment          # (required) GitHub repository name
+    owner: sjoooo123         # (required) GitHub user name
+    repo: blog_sjoooo123.github.io          # (required) GitHub repository name
     client_id: 46a9f3481b46ea0129d8     # (required) OAuth application client id
     client_secret: 79c7c9cb847e141757d7864453bcbf89f0655b24 # (required) OAuth application client secret
-    admin: ['removeif']
+    admin: ['sjoooo123']
     create_issue_manually: true
     distraction_free_mode: false
     has_hot_recommend: true # 是否有热门推荐
@@ -222,7 +222,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: 辣椒の酱
+        author: sjoooo123
         # Author title
         author_title: 尚未执佩剑，转眼即江湖
         # Author's current location
